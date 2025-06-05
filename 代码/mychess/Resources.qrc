@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/new/prefix1"/>
+    <qresource prefix="/">
+        <file>voice/eatChess.wav</file>
+        <file>voice/selectChess.wav</file>
+        <file>voice/backChess.wav</file>
+        <file>voice/moveChess.wav</file>
+        <file>voice/WinSound.wav</file>
+        <file>voice/jiangjun.wav</file>
+        <file>images/background.jpg</file>
+        <file>images/beginbgd.png</file>
+        <file>images/bottonbgd.png</file>
+        <file>voice/end.wav</file>
+        <file>images/tomenu.jpg</file>
+        <file>../backvoice.mp3</file>
+        <file>voice/backvoice.mp3</file>
+    </qresource>
+</RCC>

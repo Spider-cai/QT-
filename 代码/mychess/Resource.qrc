@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/background.jpg</file>
+        <file>images/beginbgd.png</file>
+        <file>images/bottonbgd.png</file>
+        <file>voice/backvoice.mp3</file>
+        <file>voice/eatChess.wav</file>
+        <file>voice/end.wav</file>
+        <file>voice/jiangjun.wav</file>
+        <file>voice/moveChess.wav</file>
+        <file>voice/selectChess.wav</file>
+    </qresource>
+</RCC>
